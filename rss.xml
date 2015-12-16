@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[South Florida Officiants]]></title>
         <description><![CDATA[South Florida Officiants]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/south-florida-officiants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 00:08:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 00:10:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/south-florida-officiants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a test]]></title>
+            <description><![CDATA[<h1>This is a test</h1>]]></description>
+            <link>https://thegrid.ai/south-florida-officiants/this-is-a-test/index.html</link>
+            <guid isPermaLink="false">11401d02-9053-44e3-b9dd-cbe3ffe9dbe1</guid>
+            <pubDate>Wed, 16 Dec 2015 00:10:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/south-florida-officiants/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">7cc9258e-27a8-41b8-93d6-095af5f79800</guid>
             <pubDate>Wed, 16 Dec 2015 00:08:19 GMT</pubDate>
         </item>
