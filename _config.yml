@@ -1,7 +1,7 @@
 name: South Florida Officiants
 favicon: null
-layout_spectrum: 0.59699
-typography_spectrum: 0.753
+layout_spectrum: 0.75415
+typography_spectrum: 0.50404
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#77b565'
     - '#800080'
   brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
